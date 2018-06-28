@@ -1,5 +1,5 @@
 # What is the card number?
-card_number = "6011797668867828"
+card_number = "5541808923795240"
 # Reverse the card numbers
 card_reverse = card_number.reverse
 # Turn card number into an array
@@ -23,9 +23,9 @@ end
 # If odd index number is now more than 10, minus 10, add 1
   #split...add
 card_ten = []
-card_double.each.with_index do |digit, index|
-  if index.odd? && digit >10
-    card_ten << digit -10 +1
+card_double.each.with_index do |digit|
+  if digit >9
+    card_ten << digit -9
   else
     card_ten << digit
   end

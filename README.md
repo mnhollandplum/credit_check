@@ -1,9 +1,9 @@
 # Questions
 
 1. What are you proud of?
-I am proud of writing me initial code that output whether or not the card number was valid. I am proud that I was able to create a class and move my original code into that class and make them into methods. I am proud that I was able to create make a git repository and push it to GitHub.
+* I am proud of writing me initial code that output whether or not the card number was valid. I am proud that I was able to create a class and move my original code into that class and make them into methods. I am proud that I was able to create make a git repository and push it to GitHub.
 1. What do you need to improve?
-My understanding of methods, avoiding basic syntax errors and asking for help earlier.
+* My understanding of methods, avoiding basic syntax errors and asking for help earlier.
 1. What questions do you still have?
 Where to start with the exercises. I would like to go over minitests again.
 

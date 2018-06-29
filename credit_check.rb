@@ -1,5 +1,5 @@
 # What is the card number?
-card_number = "5541808923795240"
+card_number = '6011797668867828'
 # Reverse the card numbers
 card_reverse = card_number.reverse
 # Turn card number into an array
@@ -35,7 +35,7 @@ card_sum = card_ten.sum
 # % 10
 card_divisible = card_sum %10
 # if 0, valid
-  if card_divisible == 0
+  if @card_divisible == 0
   puts "this card is valid"
 # else, invalid
   else
